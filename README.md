@@ -10,7 +10,7 @@ A **lightweight and interactive** calculator built using Java. This program allo
 ✔️ **Supports Basic Operations**: Addition (+), Subtraction (-), Multiplication (*), and Division (/)  
 ✔️ **Handles Division by Zero**: Prevents errors with an appropriate message  
 ✔️ **User-Friendly Input**: Step-by-step guided interaction  
-✔️ **Minimal & Efficient Code**: Well-structured for easy modification  
+✔️ **Minimal & Efficient Code**: Well-structured for easy modification 
 ✔️ **Beginner-Friendly**: A great project to understand Java fundamentals  
 
 ---
